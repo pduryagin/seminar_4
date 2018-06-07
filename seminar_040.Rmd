@@ -182,7 +182,7 @@ Gap(k) = \ln WSS_{random}(k) - \ln WSS(k)
 Gap(k) + 1 \cdot se(Gap(k)) \geq Gap(k+1)
 \]
 
-
+Привет!
 
 # Иерархическая кластеризация
 
